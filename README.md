@@ -19,11 +19,11 @@ This immersive experience showcases the type of problems tackled by **TATA** dai
 
 # Task 1 - Framing the Business Scenario
   
-  Discover how to predict the critical questions your business leaders will seek answers to.
+Discover how to predict the critical questions your business leaders will seek answers to.
 
-  **Overview and context**
+**Overview and context**
 
-An online retail store has hired you as a consultant to review their data and provide insights that would be valuable to the CEO and CMO of the business. The business has been performing well and the management   wants to analyse what the major contributing factors are to the revenue so they can strategically plan for next year.
+An online retail store has hired you as a consultant to review their data and provide insights that would be valuable to the CEO and CMO of the business. The business has been performing well and the management  wants to analyse what the major contributing factors are to the revenue so they can strategically plan for next year.
 
 The leadership is interested in viewing the metrics from both an operations and marketing perspective. Management also intends to expand the business and is interested in seeking guidance into areas that are performing well so they can keep a clear focus on what’s working. They would also like to view different metrics based on the demographic information that is available in the data.
 
@@ -47,13 +47,14 @@ Eight (8) questions in total (4 for the CEO and 4 for the CMO).
 
 # Task 2 - Choosing the Right Visuals
 
-Learn which visuals are most effective in a given scenario.
+**Learn which visuals are most effective in a given scenario.**
 
 You have been asked by the CEO and CMO to provide visuals on the metrics that they wish to analyse for the online retail store. You will gather the requirements and provide them with the type of visual that would be best suited to the scenario. The senior management wants to understand how their business is performing and what areas are the key strengths of the company. They are also focused on identifying opportunities that would lead to growth and generate more revenue in the future.
 
 You will be provided multiple visualisation requests by the CEO and you would need to provide the visual which would explain the data and insights in the simplest possible manner. The visual should adequately convey the information that you are trying to present. This exercise is critical to the senior management as any incorrect representation can lead to a wrong message being conveyed, or a wrong decision taken by the management. Therefore, you would need to make sure that the correct visuals are used to represent each set of data.
 
 **Here is your task**
+
 In this task, you will be required to read the questions carefully and understand that business requirement. Once you have an idea of what is required from the perspective of the CEO and CMO, you will need to come up with the perfect visual which will illustrate what the senior managers are looking for in each scenario. Remember, data can be presented in multiple types of charts, but you are required to select the visual that would best display the information which is being presented.
 
 You will be provided resources on how to select visuals based on the different scenarios, these are available in the resources below. These resources will help you get an idea on which visual to select for the given business scenario and will also guide you on how to choose the right chart or graph for your data. Each question will contain a unique scenario and you will be expected to answer the questions based on that scenario.
@@ -69,10 +70,12 @@ The CEO and CMO have recently met to finalise the requirements and would like yo
 You will be provided with the requirements of the executives and how they want to view the data. After the requirement gathering phase, you would need to make sure that the data you are using is of good quality and does not contain any bad data that would have an adverse impact on your analysis. Once the data is cleaned, the next step would be to create the visuals on either Tableau or Power BI. No matter which tool you choose for the visuals, the result should be the same. These results will help the executives with effective decision making and assist in their expansion strategy.
 
 **Here is your task**
+
 In this task, you will create the visuals around four of the questions that the CEO and CMO have requested. You can use either Tableau or Power BI to create the visuals and we’ve provided the data in the resources below. 
 Both Power BI and Tableau have free trials that can be accessed in order to complete this task. You can find a resource below that directs you how to download these free trials.
 
 **Data cleanup**
+
 Before you can begin the analysis, make sure that the data is cleaned properly. You have noticed that the data contains some returns to the store which are provided in negative quantities and there are unit prices which were input in error. You will need to perform the following steps to clean this data.
 
 * Create a check that the quantity should not be below 1 unit
@@ -104,7 +107,30 @@ The CEO is looking to gain insights on the demand for their products. He wants t
 
 # Task 4 - Communicating Insights and Analysis
 
-Clearly present your insights and demonstrate their impact on each context.
+**Here’s some background information on the task**
+
+It’s time to present your findings to the CEO and CMO. They are interested in your thought process and how you have handled the data cleanup and visualisation phase. It is important to explain your thought process and ideas in a clear and straightforward way. You are also required to clearly present the analysis of all four questions from the previous task. Make sure you are well versed with the data and the conclusions you’ve made from your analysis. 
+
+Expansion is top of mind for these leaders and they’re keen to understand where the most lucrative opportunities are in their business. 
+
+Some resources to help guide you in communicating data effectively are provided in the resources section below.
+
+**This is your assignment:**
+
+Develop a script and record a video presenting your findings to the CEO and CMO based on the four questions they asked and the visuals you created in the previous tasks.
+
+You can use your work or the model answer from the previous task to develop your presentation.
+
+When writing your script, you should speak about your entire process, including the initial data load and clean-up steps so that your leaders know you’ve done your due diligence in providing error-free analysis. 
+Data analysis provides heaps of information but remember to focus on the information that is most important to your leaders.
+
+Your video should be approximately 5 minutes in length. You can record your video in the browser or upload a video from your device below.
+
+Remember, this is not just a read out of your visuals, you’re presenting to the CEO and CMO and need to provide context for each scenario and how it relates to their questioning. 
+
+You do not need to submit your script or talking points for this deliverable.
+
+
 
 
 
